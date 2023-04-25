@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/anime_quiz/static/css/main.fd8b2a50.css",
+    "main.js": "/anime_quiz/static/js/main.a852b95c.js",
+    "static/js/787.c0885e31.chunk.js": "/anime_quiz/static/js/787.c0885e31.chunk.js",
+    "static/media/correctSound.mp3": "/anime_quiz/static/media/correctSound.4a221006c6654b26abec.mp3",
+    "static/media/incorrectSound.mp3": "/anime_quiz/static/media/incorrectSound.a78bcebf6d1a50a4ead6.mp3",
+    "index.html": "/anime_quiz/index.html",
+    "main.fd8b2a50.css.map": "/anime_quiz/static/css/main.fd8b2a50.css.map",
+    "main.a852b95c.js.map": "/anime_quiz/static/js/main.a852b95c.js.map",
+    "787.c0885e31.chunk.js.map": "/anime_quiz/static/js/787.c0885e31.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fd8b2a50.css",
+    "static/js/main.a852b95c.js"
+  ]
+}
